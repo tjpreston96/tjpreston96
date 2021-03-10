@@ -26,7 +26,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Travis_CI-white?style=flat-square&logo=travis" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Semantic_UI-16aea4?style=flat-square&logo=semantic-ui" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
