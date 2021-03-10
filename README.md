@@ -14,7 +14,6 @@
   <hr>
   <div>
       <a href="#"><img src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
   </div>
   <hr>
   <div>
@@ -27,10 +26,13 @@
       <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Docker-008ee6?style=flat-square&logo=docker&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon&logoColor=FF9900" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Travis_CI-white?style=flat-square&logo=travis" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Semantic_UI-16aea4?style=flat-square&logo=semantic-ui" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
