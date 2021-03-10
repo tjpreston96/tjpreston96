@@ -25,6 +25,8 @@
       <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Docker-008ee6?style=flat-square&logo=docker&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />  </a>
