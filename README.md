@@ -1,11 +1,16 @@
-<h1 align="center"> Tyler Preston (He/Him) </h1>
-
-<h4 align="center">  I am a full-stack software engineer with the big picture in mind. I pride myself as a pragmatic problem solver with a passion for personal growth. My educational background in healthcare administration, drive to find divergent solutions, and willingness to help facilitate growth in colleagues, makes me a strong foundational element of any company. I foster organization, functionality, and efficiency in people, groups, and code. </h4> <hr>
-
 <div align="center">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tjpreston96&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />  </a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=dark" /></a> 
+  <h1> Tyler Preston (He/Him) </h1>
+
+  <h4>  I am a full-stack software engineer with the big picture in mind. I pride myself as a pragmatic problem solver with a passion for personal growth. My educational background in healthcare administration, drive to find divergent solutions, and willingness to help facilitate growth in colleagues, makes me a strong foundational element of any company. I foster organization, functionality, and efficiency in people, groups, and code. </h4>
+  
   <hr>
+  
+  <div>
+    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tjpreston96&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />  </a>
+    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=dark" /></a> 
+  </div>
+  <hr>
+  
   <div>
     <a href="https://www.linkedin.com/in/tylerjpreston/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/tjpreston96"><img src="https://img.shields.io/github/followers/tjpreston96?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
