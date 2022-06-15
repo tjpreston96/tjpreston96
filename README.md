@@ -9,7 +9,7 @@
   <img src='https://images.credly.com/size/150x150/images/59b78dac-c708-46c6-986b-a918efeb1606/IBM_Garage_Method_for_Cloud_-_Advocate.png' />
 
   <hr>
-  <div>
+  <div align='center'>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tjpreston96&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=dark" /></a> 
   
