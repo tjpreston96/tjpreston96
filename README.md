@@ -11,7 +11,9 @@
     <a href="https://github.com/tjpreston96"><img src="https://img.shields.io/github/followers/tjpreston96?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
     <a href="mailto: tpreston96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
+  
   <hr>
+  
   <div>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
@@ -39,5 +41,11 @@
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
-</div>
+  <hr>
+  <img src='https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' />
+  <img src='https://images.credly.com/size/200x200/images/59b78dac-c708-46c6-986b-a918efeb1606/IBM_Garage_Method_for_Cloud_-_Advocate.png' />
+  
+ </div>
+
+
 
