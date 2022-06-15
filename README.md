@@ -49,8 +49,8 @@
   
   <hr>
   
-  <img src='https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' />
-  <img src='https://images.credly.com/size/200x200/images/59b78dac-c708-46c6-986b-a918efeb1606/IBM_Garage_Method_for_Cloud_-_Advocate.png' />
+  <img src='https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' />
+  <img src='https://images.credly.com/size/150x150/images/59b78dac-c708-46c6-986b-a918efeb1606/IBM_Garage_Method_for_Cloud_-_Advocate.png' />
   
  </div>
 
