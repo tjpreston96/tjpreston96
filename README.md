@@ -20,19 +20,16 @@
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=HackerRank_Solutions&theme=dark" />
   </a>
   
+
+  
+  
+  
   <!--  Certifications  -->
   <h2 align="center"> Certifications </h2>
   
   <img src='https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' />
   <img src='https://images.credly.com/size/150x150/images/59b78dac-c708-46c6-986b-a918efeb1606/IBM_Garage_Method_for_Cloud_-_Advocate.png' />
   
-  <!--  GitHub Stats  -->
-  <h2> GitHub Stats </h2>
-  
-  <div>
-    <a href="#"><img  src="https://github-readme-stats.vercel.app/api?username=tjpreston96&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />  </a>
-    <a href="#"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=dark" /></a> 
-  </div>
   
   <!--  Languages and Tools  -->
   <h2> Languages and Tools </h2>
@@ -64,6 +61,13 @@
     <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
     <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
   </div>
+  
+  <h2></h2>
+  <!--  GitHub Stats  -->
+  <p>
+    <img  src="https://github-readme-stats.vercel.app/api?username=tjpreston96&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=dark" width='400'/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=dark" width='410'/> 
+  </p>
  </div>
 
 
