@@ -9,20 +9,17 @@
   <h1> Tyler Preston (He/Him) </h1>
   <h4> I am a full-stack software engineer with the big picture in mind. I pride myself as a pragmatic problem solver with a passion for personal growth. My educational background in healthcare administration, drive to find divergent solutions, and willingness to help facilitate growth in colleagues, makes me a strong foundational element of any company. I foster organization, functionality, and efficiency in people, groups, and code. </h4>
   
+  
   <!--  Current Projects  -->
   <h2> My Current Projects 💻 </h2>
   
   <a href="https://github.com/tjpreston96/home_manager">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=home_manager&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=home_manager&theme=dark" />
   </a>
     
   <a href="https://github.com/tjpreston96/HackerRank_Solutions">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=HackerRank_Solutions&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=HackerRank_Solutions&theme=dark" />
   </a>
-  
-
-  
-  
   
   <!--  Certifications  -->
   <h2 align="center"> Certifications </h2>
@@ -62,11 +59,12 @@
     <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
   </div>
   
-  <h2></h2>
+  
   <!--  GitHub Stats  -->
+  <h2></h2>
   <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=tjpreston96&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=dark" width='400'/>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=dark" width='410'/> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=tjpreston96&include_all_commits=true&count_private=true&show_icons=true&theme=dark"  height='150' align='center'/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=dark" height='150' align='center'/> 
   </p>
  </div>
 
