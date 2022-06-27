@@ -64,7 +64,7 @@
   <h2></h2>
   <p>
     <img  src="https://github-readme-stats.vercel.app/api?username=tjpreston96&include_all_commits=true&count_private=true&show_icons=true&theme=dark"  height='150' align='center'/>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&layout=compact&theme=dark" height='150' align='center'/> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&langs_count=6&layout=compact&theme=dark" height='150' align='center'/> 
   </p>
  </div>
 
