@@ -21,6 +21,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=HackerRank_Solutions&theme=dark" />
   </a>
   
+  <a href="https://github.com/tjpreston96/Django_React_Notes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=Django_React_Notes&theme=dark" />
+  </a>
+    
+  <a href="https://github.com/tjpreston96/group-video-chat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=group-video-chat&theme=dark" />
+  </a>
+  
   <!--  Certifications  -->
   <h2 align="center"> Certifications </h2>
   
