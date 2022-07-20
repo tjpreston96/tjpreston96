@@ -7,11 +7,21 @@
   </div>
   
   <h1> Tyler Preston (He/Him) </h1>
-  <h4> I am a full-stack software engineer with the big picture in mind. I pride myself as a pragmatic problem solver with a passion for personal growth. My educational background in healthcare administration, drive to find divergent solutions, and willingness to help facilitate growth in colleagues, makes me a strong foundational element of any company. I foster organization, functionality, and efficiency in people, groups, and code. </h4>
+  <h4> 
+    I am a full-stack software engineer with the big picture in mind. I pride myself as a pragmatic problem solver with a passion for personal growth. My educational background in healthcare administration, drive to find divergent solutions, and willingness to help facilitate growth in colleagues, makes me a strong foundational element of any company. I foster organization, functionality, and efficiency in people, groups, and code.
+  </h4>
   
   
   <!--  Current Projects  -->
   <h2> My Current Projects 💻 </h2>
+  
+  <a href="https://github.com/tjpreston96/AniApp-Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=AniApp-Frontend&theme=dark" />
+  </a>
+    
+  <a href="https://github.com/tjpreston96/AniApp-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=AniApp-Backend&theme=dark" />
+  </a>
   
   <a href="https://github.com/tjpreston96/home_manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=home_manager&theme=dark" />
@@ -20,6 +30,10 @@
   <a href="https://github.com/tjpreston96/HackerRank_Solutions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=HackerRank_Solutions&theme=dark" />
   </a>
+  
+  
+  <!--  Recent Projects  -->
+  <h2> My Recent Projects 💻 </h2>
   
   <a href="https://github.com/tjpreston96/Django_React_Notes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=Django_React_Notes&theme=dark" />
