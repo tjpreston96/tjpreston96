@@ -103,10 +103,19 @@
     <a href="#"><img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /></a>
   </p>
   <p>
-    <b>Homelab</b><br/>
+    <b>Homelab and Networking</b><br/>
     <a href="#"><img src="https://img.shields.io/badge/-Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Home_Assistant-18BCF2?style=flat-square&logo=home-assistant&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Ubiquiti_UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Pi--hole-96060C?style=flat-square&logo=pihole&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Nginx_Proxy_Manager-F15833?style=flat-square&logo=nginxproxymanager&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Let%27s_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" /></a>
+  </p>
+  <p>
+    <b>Self-Hosted Apps</b><br/>
+    <a href="#"><img src="https://img.shields.io/badge/-Home_Assistant-18BCF2?style=flat-square&logo=home-assistant&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Immich-4250AF?style=flat-square&logo=immich&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Mealie-E58325?style=flat-square&logo=mealie&logoColor=white" /></a>
   </p>
   <p>
     <b>Tools and Collaboration</b><br/>
