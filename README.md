@@ -77,7 +77,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-LiveView-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Semantic_UI-16aea4?style=flat-square&logo=semantic-ui" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Semantic_UI-16aea4?style=flat-square&logo=semantic-ui&logoColor=white" /></a>
   </p>
   <p>
     <b>Cloud, DevOps and Security</b><br/>
@@ -93,7 +93,7 @@
   </p>
   <p>
     <b>Databases</b><br/>
-    <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" /></a>
   </p>
   <p>
