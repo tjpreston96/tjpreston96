@@ -6,7 +6,7 @@
     <a href="mailto: tpreston96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
   
-  <h1> Tyler Preston (He/Him) </h1>
+  <h1> Tyler Patterson (He/Him) </h1>
   <h4> 
     I am a full-stack software engineer with the big picture in mind. I pride myself as a pragmatic problem solver with a passion for personal growth. My educational background in healthcare administration, drive to find divergent solutions, and willingness to help facilitate growth in colleagues, makes me a strong foundational element of any company. I foster organization, functionality, and efficiency in people, groups, and code.
   </h4>
