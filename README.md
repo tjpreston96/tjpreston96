@@ -13,10 +13,10 @@
   
   
   <!--  Current Projects (homelab; added as they ship)  -->
-  <h2>Current Projects · Homelab 🖥️</h2>
-  <p><i>Self-hosted projects running on my home server, added here as they ship.</i></p>
+  <h2>Current Projects 🖥️</h2>
+  <p><i>Homelab projects self-hosted on my home server, added here as they ship.</i></p>
 
-  <h3>🏠 Home Control</h3>
+  <h3>Home Control 🏠</h3>
   <p>
     A self-hosted smart-home dashboard for a wall- or counter-mounted iPad, built on Home Assistant running in a VM on a home server.
     One glanceable view for rooms, lighting and climate, pet devices, a smart camera, utility energy usage, and a fitness page built from Apple Health data
@@ -94,7 +94,7 @@
   <!--  GitHub Stats  -->
   <h2>GitHub Stats 📊</h2>
   <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=tjpreston96&include_all_commits=true&count_private=true&show_icons=true&theme=dark"  height='150' align='center'/>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&langs_count=6&layout=compact&theme=dark" height='150' align='center'/> 
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tjpreston96&show_icons=true&theme=dark&hide_border=true" />
+    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjpreston96&langs_count=6&layout=compact&theme=dark&hide_border=true" />
   </p>
  </div>
