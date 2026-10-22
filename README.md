@@ -33,16 +33,16 @@
   <h2>Past Projects 💻</h2>
 
   <p>
-    <a href="https://github.com/tjpreston96/AniApp-Frontend"><img width="400" alt="AniApp-Frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=AniApp-Frontend&theme=dark&hide_border=true" /></a>
-    <a href="https://github.com/tjpreston96/AniApp-Backend"><img width="400" alt="AniApp-Backend" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=AniApp-Backend&theme=dark&hide_border=true" /></a>
+    <a href="https://github.com/tjpreston96/AniApp-Frontend"><img width="400" alt="AniApp-Frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=AniApp-Frontend&theme=dark&hide_border=true&cache_seconds=14400" /></a>
+    <a href="https://github.com/tjpreston96/AniApp-Backend"><img width="400" alt="AniApp-Backend" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=AniApp-Backend&theme=dark&hide_border=true&cache_seconds=14400" /></a>
   </p>
   <p>
-    <a href="https://github.com/tjpreston96/home_manager"><img width="400" alt="home_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=home_manager&theme=dark&hide_border=true" /></a>
-    <a href="https://github.com/tjpreston96/HackerRank_Solutions"><img width="400" alt="HackerRank_Solutions" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=HackerRank_Solutions&theme=dark&hide_border=true" /></a>
+    <a href="https://github.com/tjpreston96/home_manager"><img width="400" alt="home_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=home_manager&theme=dark&hide_border=true&cache_seconds=14400" /></a>
+    <a href="https://github.com/tjpreston96/HackerRank_Solutions"><img width="400" alt="HackerRank_Solutions" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=HackerRank_Solutions&theme=dark&hide_border=true&cache_seconds=14400" /></a>
   </p>
   <p>
-    <a href="https://github.com/tjpreston96/Django_React_Notes"><img width="400" alt="Django_React_Notes" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=Django_React_Notes&theme=dark&hide_border=true" /></a>
-    <a href="https://github.com/tjpreston96/group-video-chat"><img width="400" alt="group-video-chat" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=group-video-chat&theme=dark&hide_border=true" /></a>
+    <a href="https://github.com/tjpreston96/Django_React_Notes"><img width="400" alt="Django_React_Notes" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=Django_React_Notes&theme=dark&hide_border=true&cache_seconds=14400" /></a>
+    <a href="https://github.com/tjpreston96/group-video-chat"><img width="400" alt="group-video-chat" src="https://github-readme-stats.vercel.app/api/pin/?username=tjpreston96&repo=group-video-chat&theme=dark&hide_border=true&cache_seconds=14400" /></a>
   </p>
 
 
