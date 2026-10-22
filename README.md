@@ -58,45 +58,65 @@
 
   <!--  Languages and Tools  -->
   <h2>Languages and Tools 🧰</h2>
-  
-  <div>
+
+  <p>
+    <b>Languages</b><br/>
+    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" /></a>
+  </p>
+  <p>
+    <b>Frameworks and Runtimes</b><br/>
     <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Docker-008ee6?style=flat-square&logo=docker&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Home_Assistant-18BCF2?style=flat-square&logo=home-assistant&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Semantic_UI-16aea4?style=flat-square&logo=semantic-ui" /></a>
+  </p>
+  <p>
+    <b>Cloud, DevOps and Security</b><br/>
     <a href="#"><img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon&logoColor=FF9900" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Wiz-2B5AE1?style=flat-square" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Docker-008ee6?style=flat-square&logo=docker&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Travis_CI-white?style=flat-square&logo=travis" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Wiz-2B5AE1?style=flat-square" /></a>
+  </p>
+  <p>
+    <b>Databases</b><br/>
     <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Semantic_UI-16aea4?style=flat-square&logo=semantic-ui" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square" /></a>
+  </p>
+  <p>
+    <b>AI and LLMs</b><br/>
+    <a href="#"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /></a>
+  </p>
+  <p>
+    <b>Homelab</b><br/>
+    <a href="#"><img src="https://img.shields.io/badge/-Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Home_Assistant-18BCF2?style=flat-square&logo=home-assistant&logoColor=white" /></a>
+  </p>
+  <p>
+    <b>Tools and Collaboration</b><br/>
+    <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
-  </div>
-  
-  
+  </p>
+
+
   <!--  GitHub Stats  -->
   <h2>GitHub Stats 📊</h2>
   <p>
